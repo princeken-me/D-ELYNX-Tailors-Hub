@@ -1,0 +1,8 @@
+{
+  "name": "D-ELYNX Tailors Hub",
+  "description": "A scalable, mobile-first PWA connecting global fashion professionals through a modular, high-performance digital commerce ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
